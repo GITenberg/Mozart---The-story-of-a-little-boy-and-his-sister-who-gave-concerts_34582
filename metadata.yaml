@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5481'
     url: http://www.gutenberg.org/2009/agents/5481
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34582#Mozart---The-story-of-a-little-boy-and-his-sister-who-gave-concerts
 gutenberg_bookshelf: Child's Own Book of Great Musicians
 gutenberg_issued: '2010-12-05'
 gutenberg_type: Text
