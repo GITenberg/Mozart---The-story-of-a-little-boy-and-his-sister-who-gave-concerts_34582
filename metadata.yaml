@@ -1,0 +1,28 @@
+_repo: Mozart---The-story-of-a-little-boy-and-his-sister-who-gave-concerts_34582
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34582-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tapper, Thomas
+    birthdate: 1864
+    deathdate: 1958
+    gutenberg_agent_id: '5481'
+    url: http://www.gutenberg.org/2009/agents/5481
+description: ''
+gutenberg_bookshelf: Child's Own Book of Great Musicians
+gutenberg_issued: '2010-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mozart, Wolfgang Amadeus, 1756-1791 -- Juvenile literature'
+- !lcsh 'Composers -- Austria -- Biography -- Juvenile literature'
+- !lcc 'ML'
+title: 'Mozart : The story of a little boy and his sister who gave concerts'
+url: http://www.gutenberg.org/ebooks/34582
